@@ -15,3 +15,4 @@ version change to v1.2
 on merge1 branch 
 
 
+version 2.0
